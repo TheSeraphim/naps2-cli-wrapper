@@ -380,5 +380,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - **Issues**: Report bugs and feature requests on GitHub
 - **NAPS2 Support**: Visit https://www.naps2.com for NAPS2-specific issues
-- **Scanner Drivers**: Contact your scanner manufacturer for driver support#   n a p s 2 - c l i - w r a p p e r  
- 
+- **Scanner Drivers**: Contact your scanner manufacturer for driver support#
