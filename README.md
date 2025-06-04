@@ -1,3 +1,6 @@
+![](./scanner-logo.png)
+
+
 # Scanner Automation Scripts
 
 Scanner automation scripts in C# (.NET 8) and Python - CLI wrappers for NAPS2 with auto-detection, named parameters, and multi-format output.
